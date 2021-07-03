@@ -1,2 +1,3 @@
 rootProject.name = "Chat Box"
 include ':app'
+include ':Chat Component'
